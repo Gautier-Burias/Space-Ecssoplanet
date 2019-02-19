@@ -51,7 +51,7 @@ for (let i = 0; i < 24; i++) {
   border[i].style.border = '0.5px solid red'
   border[i].style.boxShadow = '0px 0px 3px #c0392b'
 
-  /* TRANSITION BUT ITS LAGGY -------------------------------------------------
+  /* Transition but its freezing the site -------------------------------------------------
   border[i].classList.add('redplanetanim')
   border[i].style.border = '0.5px solid red'
   border[i].style.boxShadow = '0px 0px 3px #c0392b'
